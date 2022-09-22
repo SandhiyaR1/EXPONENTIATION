@@ -13,15 +13,16 @@ To write a program to find the exponentiation of a number.
 
 ## Program:
 ```
-/*
 Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
-*/
-```
+Developed by: sandhiya.R
+RegisterNumber: 22001197
 
+x= int( input ())
+y=int( input ())
+print( "Exponentiation of a given number:",x**y)
+```
 ## Output:
-![exponentiation of a number](expo.png)
+![output](/expo.png)
 
 
 ## Result:
